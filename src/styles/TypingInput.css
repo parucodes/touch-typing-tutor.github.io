@@ -1,0 +1,13 @@
+.highlighted-text {
+  font-size: 24px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
