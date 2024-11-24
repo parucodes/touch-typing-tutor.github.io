@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/touch-typing-tutor.github.io/static/css/main.1c37e883.css",
-    "main.js": "/touch-typing-tutor.github.io/static/js/main.bb792c8f.js",
+    "main.js": "/touch-typing-tutor.github.io/static/js/main.0cd8a603.js",
     "index.html": "/touch-typing-tutor.github.io/index.html",
     "main.1c37e883.css.map": "/touch-typing-tutor.github.io/static/css/main.1c37e883.css.map",
-    "main.bb792c8f.js.map": "/touch-typing-tutor.github.io/static/js/main.bb792c8f.js.map"
+    "main.0cd8a603.js.map": "/touch-typing-tutor.github.io/static/js/main.0cd8a603.js.map"
   },
   "entrypoints": [
     "static/css/main.1c37e883.css",
-    "static/js/main.bb792c8f.js"
+    "static/js/main.0cd8a603.js"
   ]
 }
